@@ -1,6 +1,4 @@
 mitchell-test
-=============
-test repository
 
 list for completion
 =============
