@@ -1,7 +1,7 @@
 mitchell-test
 =============
-
 test repository
-readme file for mitchell-test
+
+list for completion
 =============
 add content to index
